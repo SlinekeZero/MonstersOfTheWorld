@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: montersoftheworld
+Specification-Vendor: SlinekeZero
+Specification-Version: 1
+Implementation-Title: mod THOD
+Implementation-Version: 1.0
+Implementation-Vendor: SlinekeZero
+Implementation-Timestamp: 2024-08-13T11:45:13-0500
+
